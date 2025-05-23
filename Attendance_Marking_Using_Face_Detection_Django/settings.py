@@ -102,6 +102,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# In Attendance_Marking_Using_Face_Detection_Django/settings.py
-# AUTH_USER_MODEL = 'AMFD.CustomUser'
 
